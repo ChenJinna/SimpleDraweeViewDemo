@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\g-emall\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\library-2.4.0_ed2e751c4c0ea4ce1e6b018912248131c1bdbeb3.jar" />
+    </item>
+    <item
+        jar="E:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_10f69e68b33bec4f7012aefbf85f1d91098765bd.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_c4526676d329181f4af4487cf4b8507b6227352e.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_b10f9a22a23b55bf88afd32a9acca79ca15f48bb.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_6bde32a64940973d24037d068148d7079054421f.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f219f647b895d8443dc74e3c047aa21e83b3a9ec">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\instant-run_5485d1f37c10a168d99e1a3dd346146441c78a74.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ca5f038501a08d309442db86f20eec0b81a9bc26">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_bb605123a44c3766d5b431b75956cb3bccafc26e.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_3bd82bb23600e62281f0d2bcf1c655fe210f5b94.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_2b0bdf083ae45185138d6bd80b1802d45e9b37ed.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.10.0_2d9a37bd0adafc4da19dcad6f7d8d00c00ef7325.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.10.0_e23aef88f974abdff5d2465a1588018ccc510129.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.10.0_5a921a457d71b28e33726e0fed33e94974f7aa08.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.10.0_c9d7841f5b5dae53dd9a6ee8f8855a4d212acb00.jar" />
+    </item>
+    <item
+        jar="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.10.0_f19f255360f783fd279a5db71921b660be87985d.jar" />
+    </item>
+    <item
+        jar="C:\Users\g-emall\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\studio_workspace\SimpleDraweeViewDemo\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_253fd5d64b1b2f7495f90eecde8d811bdc6a5edd.jar" />
+    </item>
+
+</items>
